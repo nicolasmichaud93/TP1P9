@@ -1,0 +1,10 @@
+Action : Ouverture de la page.
+Demande le mot de passe personnel.
+Si le mot de passe NOK --- > Message d'erreur et réesayer.
+Si le mot de passe OK ---> Afficher les notes. {
+	Action : Appuyer sur modifier : ---> Les notes deviennent une boite de texte modifiable {
+		Action : Appuyer sur sauvegarder : ---> Les notes redeviennent un paragraphe
+	}
+	Action : Appuyer sur Modifier le mot de passe ---> Nous pouvons modifier le mot de passe enregistré.
+	Action : Se déconnecter ---> Retour à la page d'accueil.
+}
